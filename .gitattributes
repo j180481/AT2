@@ -1,0 +1,3 @@
+# .gitattributes
+# set the default behavior, in case people dont have core.autocrlf set.
+* text-auto
